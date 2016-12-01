@@ -1,0 +1,4 @@
+def variable(x,y):
+  x = 13
+  y = 13 
+  
